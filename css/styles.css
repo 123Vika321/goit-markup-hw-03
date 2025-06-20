@@ -252,10 +252,10 @@ img {
   display: flex;
   gap: 24px;
   align-items: center;
+  width: calc((100% - 72px)) / 4;
 }
 
 .main-list-content {
-  width: calc((100% - 72px)) / 4;
 }
 
 .main-title {
