@@ -213,8 +213,7 @@ img {
   letter-spacing: 0.02em;
   display: flex;
   align-items: center;
-  margin-bottom: 48px;
-  margin: 0 auto;
+  margin: 0 auto 48px;
   max-width: 496px;
 }
 
